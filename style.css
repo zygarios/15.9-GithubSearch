@@ -3,12 +3,12 @@ body {
   font-family: monospace;
 }
 
-form {
+.formSearch {
   font-size: 2rem;
   text-align: center;
 }
 
-input {
+.formSearch input {
   background: lightgray;
   padding: 15px;
   width: 40%;
@@ -17,7 +17,7 @@ input {
   font-size: 2rem;
 }
 
-label {
+.formSearch label {
   display: block;
   margin: 30px;
 }

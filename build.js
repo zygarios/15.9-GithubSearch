@@ -111,7 +111,7 @@ var App = function (_React$Component3) {
         null,
         React.createElement(
           "form",
-          { onSubmit: function onSubmit(event) {
+          { className: "formSearch", onSubmit: function onSubmit(event) {
               return _this5.onSubmit(event);
             } },
           React.createElement(
